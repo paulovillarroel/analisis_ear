@@ -1,0 +1,266 @@
+﻿servicio.salud;prestador;porcentaje;art.incumplidos;año;estado;tipo;IF
+Metropolitano Oriente;Instituto Nacional Geriátrico Pdte. Eduardo Frei Montalva;96,74;0;2019;Cumple;EAR;
+Metropolitano Oriente;Instituto Nacional de Rehabilitación Pdte. Pedro Aguirre Cerda;93,75;0;2019;Cumple;EAR;
+Talcahuano;Hospital Penco Lirquén;93,33;1;2019;Cumple;Invitado;
+Ñuble;Hospital de San Carlos;91,22;1;2019;Cumple;EAR;0,7
+Metropolitano Oriente;Hospital Dr. Luis Tisne B.;90,97;0;2019;Cumple;EAR;0,74
+Metropolitano Oriente;Hospital de Niños Dr. Luis Calvo Mackenna;90,79;0;2019;Cumple;EAR;1,39
+Coquimbo;Hospital Dr. Antonio Tirado Lanas;90,54;0;2019;Cumple;EAR;0,74
+Arica;Hospital Dr. Juan Noe Crevanni;90,13;1;2019;Cumple;EAR;0,82
+Metropolitano Oriente;Instituto de Neurocirugía Dr. Alfonso Asenjo;89,39;0;2019;Cumple;EAR;1,66
+Metropolitano Norte;Instituto Psiquiátrico Dr. Jose Horwitz Barak;87,96;0;2019;Cumple;EAR;
+Biobío;Complejo Asistencial Dr. Victor Ríos Ruiz;85,53;0;2019;Cumple;EAR;0,9
+Talcahuano;Hospital de Tome;85,16;0;2019;Cumple;EAR;
+Coquimbo;Hospital Dr. Humberto Elorza Cortez;83,93;0;2019;Cumple;Invitado;
+Concepción;Hospital de Lota;83,87;1;2019;Cumple;EAR;
+Del Maule;Hospital Pdte. Carlos Ibáñez del Campo;83,78;0;2019;Cumple;EAR;0,79
+Metropolitano Occidente;Instituto Traumatológico Dr. Teodoro Gebauer;83,59;1;2019;Cumple;EAR;1,23
+Del Maule;Hospital Dr. César Garavagno Burotto;83,55;1;2019;Cumple;EAR;1,04
+Talcahuano;Hospital Las Higueras;83,55;0;2019;Cumple;EAR;0,96
+Metropolitano Sur;Hospital Dr. Exequiel Gonzalez Cortes;83,11;1;2019;Cumple;EAR;1,02
+Del Maule;Hospital San Juan de Dios (Curicó);83,11;1;2019;Cumple;EAR;0,84
+Viña del Mar Quillota;Hospital de Quilpué;82,43;1;2019;Cumple;EAR;0,76
+Aconcagua;Hospital San Juan de Dios (Los Andes);82,24;0;2019;Cumple;EAR;0,85
+Arauco;Hospital Provincial Dr. Rafael Avaria;82,14;0;2019;Cumple;Invitado;
+Antofagasta;Hospital Dr. Carlos Cisternas;81,94;1;2019;Cumple;Invitado;0,72
+Aisén;Hospital Regional Coihaique;81,58;4;2019;Cumple;EAR;0,86
+Coquimbo;Hospital San Pablo;81,58;1;2019;Cumple;EAR;1,01
+Metropolitano Oriente;Instituto Nacional de Enfermedades Respiratorias y Cirugía Torácica;80,47;0;2019;Cumple;EAR;1,77
+Coquimbo;Hospital San Juan de Dios (La Serena);80,41;1;2019;Cumple;EAR;0,95
+Ñuble;Hospital Clínico Herminda Martin;79,61;1;2019;Cumple;EAR;0,86
+Aconcagua;Hospital de San Camilo;79,61;0;2019;Cumple;EAR;0,83
+Iquique;Hospital Dr. Ernesto Torres Galdames ;79,61;1;2019;Cumple;EAR;0,82
+Osorno;Hospital Base de Osorno;78,95;1;2019;Cumple;EAR;0,86
+Valdivia;Hospital Clínico Regional Valdivia;78,95;1;2019;Cumple;EAR;0,96
+Concepción;Hospital San José (Coronel);78,57;2;2019;Cumple;EAR;0,62
+Araucanía Sur;Hospital Dr. Hernán Henríquez Aravena;78,29;2;2019;Cumple;EAR;1,05
+Araucanía Norte;Hospital Dr. Mauricio Heyermann;77,7;2;2019;Cumple;EAR;0,67
+Concepción;Hospital Clinico Regional Dr. Guillermo Grant Benavente;77,63;2;2019;Cumple;EAR;1,11
+Metropolitano Norte;Instituto Nacional del Cáncer Dr. Caupolicán Pardo Correa;77,59;2;2019;Cumple;EAR;
+Metropolitano Sur;Hospital El Pino;77,03;1;2019;Cumple;EAR;0,79
+Araucanía Norte;Hospital San José (Victoria);77,03;1;2019;Cumple;EAR;0,76
+Del Libertador B. O´Higgins;Hospital San Juan de Dios (San Fernando);77,03;3;2019;Cumple;EAR;0,81
+Viña del Mar Quillota;Hospital Dr. Gustavo Fricke;76,97;3;2019;Cumple;EAR;1,19
+Atacama;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz;76,39;0;2019;Cumple;Invitado;
+Valparaíso San Antonio;Hospital Dr. Eduardo Pereira Ramírez;75,74;0;2019;Cumple;EAR;1,1
+Viña del Mar Quillota;Hospital San Martín;75,66;1;2019;Cumple;EAR;0,77
+Metropolitano Norte;Hospital Clínico de Niños Dr. Roberto del Rio;74,34;1;2019;No cumple;EAR;1,11
+Metropolitano Oriente;Hospital Del Salvador;73,68;3;2019;No cumple;EAR;1,21
+Magallanes;Hospital Dr. Lautaro Navarro Avaria;73,65;4;2019;No cumple;EAR;0,98
+Metropolitano Sur;Hospital Barros Luco Trudeau;73,03;2;2019;No cumple;EAR;0,95
+Del Reloncaví;Hospital de Puerto Montt;73,03;0;2019;No cumple;EAR;0,96
+Metropolitano Central;Hospital El Carmen Dr. Luis Valentín Ferrada;72,97;1;2019;No cumple;Invitado;0,94
+Metropolitano Occidente;Hospital Adalberto Steeger;72,3;1;2019;No cumple;Invitado;
+Metropolitano Central;Hospital Clínico San Borja Arriaran;71,62;4;2019;No cumple;EAR;0,88
+Metropolitano Occidente;Hospital Dr. Félix Bulnes Cerda;71,62;2;2019;No cumple;EAR;0,82
+Metropolitano Occidente;Hospital San Juan de Dios (Santiago);71,05;2;2019;No cumple;EAR;1,08
+Valparaíso San Antonio;Hospital Claudio Vicuña;70,95;1;2019;No cumple;EAR;0,71
+Metropolitano Norte;Complejo Hospitalario San Jose;70,39;2;2019;No cumple;EAR;0,84
+Atacama;Hospital San José del Carmen (Copiapó);70,39;3;2019;No cumple;Invitado;0,78
+Metropolitano Occidente;Hospital San José (Melipilla);69,59;1;2019;No cumple;EAR;0,63
+Chiloé;Hospital de Castro;68,24;5;2019;No cumple;EAR;0,82
+Metropolitano Central;Hospital de Urgencia Asistencia Publica Dr. Alejandro del Rio;66,96;1;2019;No cumple;EAR;1,33
+Valparaíso San Antonio;Hospital Carlos Van Buren;66,89;2;2019;No cumple;EAR;1,01
+Metropolitano Sur Oriente;Hospital Clínico Metropolitano La Florida Dra. Eloísa Diaz Inzunza;66,45;2;2019;No cumple;Invitado;0,88
+Del Libertador B. O´Higgins;Hospital Regional de Rancagua;65,79;2;2019;No cumple;EAR;1
+Antofagasta;Hospital Dr. Leonardo Guzman;63,16;3;2019;No cumple;EAR;0,94
+Metropolitano Sur Oriente;Complejo Hospitalario Dr. Sotero del Rio;62,84;2;2019;No cumple;EAR;0,94
+Metropolitano Sur Oriente;Hospital Padre Alberto Hurtado;61,84;5;2019;No cumple;Invitado;0,73
+Metropolitano Oriente;Instituto de Neurocirugía Dr. Alfonso Asenjo;95,24;0;2018;Cumple;EAR;
+Metropolitano Oriente;Instituto Nacional Geriátrico Pdte. Eduardo Frei Montalva;93,33;0;2018;Cumple;EAR;
+Del Maule;Hospital Pdte. Carlos Ibáñez del Campo;93,02;1;2018;Cumple;EAR;
+Metropolitano Oriente;Instituto Nacional de Rehabilitación Pdte. Pedro Aguirre Cerda;91,13;0;2018;Cumple;EAR;
+Metropolitano Oriente;Hospital Dr. Luis Tisne B.;90,24;2;2018;Cumple;EAR;
+Del Maule;Hospital Dr. César Garavagno Burotto;89,44;2;2018;Cumple;EAR;
+Metropolitano Sur;Hospital Dr. Exequiel Gonzalez Cortes;89,29;1;2018;Cumple;EAR;
+Del Maule;Hospital San Juan de Dios (Curicó);88,95;1;2018;Cumple;EAR;
+Concepción;Hospital San José (Coronel);88,69;1;2018;Cumple;EAR;
+Metropolitano Occidente;Instituto Traumatológico Dr. Teodoro Gebauer;88,16;1;2018;Cumple;EAR;
+Metropolitano Occidente;Hospital San José (Melipilla);88,07;1;2018;Cumple;EAR;
+Concepción;Hospital de Lota;87,84;2;2018;Cumple;EAR;
+Metropolitano Oriente;Hospital de Niños Dr. Luis Calvo Mackenna;86,9;1;2018;Cumple;EAR;
+Talcahuano;Hospital Penco Lirquén;86,1;0;2018;Cumple;Invitado;
+Metropolitano Norte;Instituto Psiquiátrico Dr. Jose Horwitz Barak;85;1;2018;Cumple;EAR;
+Valparaíso San Antonio;Hospital Claudio Vicuña;84,88;4;2018;Cumple;EAR;
+Metropolitano Sur;Hospital El Pino;84,44;2;2018;Cumple;EAR;
+Biobío;Complejo Asistencial Dr. Victor Ríos Ruiz;83,89;0;2018;Cumple;EAR;
+Talcahuano;Hospital de Tome;83,55;0;2018;Cumple;EAR;
+Antofagasta;Hospital Dr. Carlos Cisternas;83,1;2;2018;Cumple;Invitado;
+Valparaíso San Antonio;Hospital Dr. Eduardo Pereira Ramírez;82,74;0;2018;Cumple;EAR;
+Metropolitano Norte;Instituto Nacional del Cáncer Dr. Caupolicán Pardo Correa;82,64;3;2018;Cumple;EAR;
+Ñuble;Hospital de San Carlos;82,39;2;2018;Cumple;EAR;
+Metropolitano Norte;Hospital Clínico de Niños Dr. Roberto del Rio;81,55;3;2018;Cumple;EAR;
+Chiloé;Hospital de Castro;81,25;3;2018;Cumple;EAR;
+Metropolitano Occidente;Hospital Dr. Félix Bulnes Cerda;81,11;3;2018;Cumple;EAR;
+Aisén;Hospital Regional Coihaique;81,11;4;2018;Cumple;EAR;
+Coquimbo;Hospital Dr. Antonio Tirado Lanas;80,81;2;2018;Cumple;EAR;
+Iquique;Hospital Dr. Ernesto Torres Galdames;80,56;3;2018;Cumple;EAR;
+Coquimbo;Hospital San Pablo;80,56;1;2018;Cumple;EAR;
+Viña del Mar Quillota;Hospital Dr. Gustavo Fricke;80;3;2018;Cumple;EAR;
+Del Libertador B. O´Higgins;Hospital Regional de Rancagua;79,44;2;2018;Cumple;EAR;
+Araucanía Norte;Hospital Dr. Mauricio Heyermann;78,41;2;2018;Cumple;EAR;
+Talcahuano;Hospital Las Higueras;78,33;2;2018;Cumple;EAR;
+Arauco;Hospital Provincial Dr. Rafael Avaria;78;3;2018;Cumple;Invitado;
+Del Libertador B. O´Higgins;Hospital San Juan de Dios (San Fernando);77,91;3;2018;Cumple;EAR;
+Del Reloncaví;Hospital de Puerto Montt;77,78;2;2018;Cumple;EAR;
+Viña del Mar Quillota;Hospital San Martín;77,78;2;2018;Cumple;EAR;
+Osorno;Hospital Base de Osorno;77,22;1;2018;Cumple;EAR;
+Metropolitano Oriente;Hospital Del Salvador;77,22;3;2018;Cumple;EAR;
+Metropolitano Oriente;Instituto Nacional de Enfermedades Respiratorias y Cirugía Torácica;76,92;1;2018;Cumple;EAR;
+Viña del Mar Quillota;Hospital de Quilpué;76,67;3;2018;Cumple;EAR;
+Aconcagua;Hospital de San Camilo;76,67;1;2018;Cumple;EAR;
+Aconcagua;Hospital San Juan de Dios (Los Andes);76,67;2;2018;Cumple;EAR;
+Atacama;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz;76,2;1;2018;Cumple;Invitado;
+Concepción;Hospital Clinico Regional Dr. Guillermo Grant Benavente;76,11;3;2018;Cumple;EAR;
+Araucanía Sur;Hospital Dr. Hernán Henríquez Aravena;76,11;4;2018;Cumple;EAR;
+Magallanes;Hospital Dr. Lautaro Navarro Avaria;76,11;7;2018;Cumple;EAR;
+Metropolitano Occidente;Hospital Adalberto Steeger;76,1;2;2018;Cumple;Invitado;
+Antofagasta;Hospital Dr. Leonardo Guzman;75,56;3;2018;Cumple;EAR;
+Ñuble;Hospital Clínico Herminda Martin;75;2;2018;Cumple;EAR;
+Metropolitano Sur Oriente;Hospital Clínico Metropolitano La Florida Dra. Eloísa Diaz Inzunza;75;4;2018;Cumple;Invitado;
+Araucanía Norte;Hospital San José (Victoria);75;1;2018;Cumple;EAR;
+Metropolitano Occidente;Hospital San Juan de Dios (Santiago);74,44;4;2018;No cumple;EAR;
+Coquimbo;Hospital San Juan de Dios (La Serena);74,43;2;2018;No cumple;EAR;
+Metropolitano Central;Hospital El Carmen Dr. Luis Valentín Ferrada;73,9;3;2018;No cumple;Invitado;
+Valdivia;Hospital Clínico Regional Valdivia;73,89;3;2018;No cumple;EAR;
+Valparaíso San Antonio;Hospital Carlos Van Buren;73,86;2;2018;No cumple;EAR;
+Metropolitano Sur;Hospital Barros Luco Trudeau;72,78;3;2018;No cumple;EAR;
+Metropolitano Central;Hospital Clínico San Borja Arriaran;72,78;3;2018;No cumple;EAR;
+Metropolitano Sur Oriente;Complejo Hospitalario Dr. Sotero del Rio;72,73;5;2018;No cumple;EAR;
+Arica;Hospital Dr. Juan Noe Crevanni;72,22;2;2018;No cumple;EAR;
+Atacama;Hospital San José del Carmen (Copiapó);71;2;2018;No cumple;Invitado;
+Metropolitano Central;Hospital de Urgencia Asistencia Publica Dr. Alejandro del Rio;70,71;5;2018;No cumple;EAR;
+Metropolitano Norte;Complejo Hospitalario San Jose;70;2;2018;No cumple;EAR;
+Metropolitano Sur Oriente;Hospital Padre Alberto Hurtado;64,4;8;2018;No cumple;Invitado;
+Metropolitano Oriente;Instituto de Neurocirugía Dr. Alfonso Asenjo;92,68;0;2017;Cumple;EAR;
+Metropolitano Oriente;Hospital Dr. Luis Tisne B.;92,5;1;2017;Cumple;EAR;
+Metropolitano Oriente;Instituto Nacional de Rehabilitación Pdte. Pedro Aguirre Cerda;91,13;0;2017;Cumple;EAR;
+Metropolitano Oriente;Hospital de Niños Dr. Luis Calvo Mackenna;90,85;2;2017;Cumple;EAR;
+Metropolitano Sur;Hospital Dr. Exequiel Gonzalez Cortes;90,85;1;2017;Cumple;EAR;
+Metropolitano Oriente;Instituto Nacional Geriátrico Pdte. Eduardo Frei Montalva;90;0;2017;Cumple;EAR;
+Talcahuano;Hospital de Tome;88,16;0;2017;Cumple;EAR;
+Talcahuano;Hospital Penco Lirquén;87,14;0;2017;Cumple;Invitado;
+Metropolitano Oriente;Instituto Nacional de Enfermedades Respiratorias y Cirugía Torácica;85,9;3;2017;Cumple;EAR;
+Araucanía Norte;Hospital San José (Victoria);84,66;2;2017;Cumple;EAR;
+Del Maule;Hospital Pdte. Carlos Ibáñez del Campo;83,72;1;2017;Cumple;EAR;
+Del Maule;Hospital San Juan de Dios (Curicó);82,56;2;2017;Cumple;EAR;
+Metropolitano Norte;Instituto Psiquiátrico Dr. Jose Horwitz Barak;82,5;1;2017;Cumple;EAR;
+Metropolitano Norte;Instituto Nacional del Cáncer Dr. Caupolicán Pardo Correa;81,94;2;2017;Cumple;EAR;
+Metropolitano Occidente;Hospital San José (Melipilla);81,82;3;2017;Cumple;EAR;
+Viña del Mar Quillota;Hospital Dr. Gustavo Fricke;81,67;4;2017;Cumple;EAR;
+Metropolitano Central;Hospital Clínico San Borja Arriaran;80,68;3;2017;Cumple;EAR;
+Antofagasta;Hospital Dr. Carlos Cisternas;80,23;3;2017;Cumple;Invitado;
+Magallanes;Hospital Dr. Lautaro Navarro Avaria;80;7;2017;Cumple;EAR;
+Concepción;Hospital San José (Coronel);79,76;2;2017;Cumple;EAR;
+Viña del Mar Quillota;Hospital San Martín;79,55;2;2017;Cumple;EAR;
+Biobío;Complejo Asistencial Dr. Victor Ríos Ruiz;79,44;3;2017;Cumple;EAR;
+Metropolitano Sur;Hospital Barros Luco Trudeau;79,44;3;2017;Cumple;EAR;
+Metropolitano Sur;Hospital El Pino;79,44;2;2017;Cumple;EAR;
+Del Libertador B. O´Higgins;Hospital Regional de Rancagua;79,44;3;2017;Cumple;EAR;
+Viña del Mar Quillota;Hospital de Quilpué;78,98;2;2017;Cumple;EAR;
+Aconcagua;Hospital de San Camilo;78,98;2;2017;Cumple;EAR;
+Metropolitano Occidente;Instituto Traumatológico Dr. Teodoro Gebauer;78,95;2;2017;Cumple;EAR;
+Osorno;Hospital Base de Osorno;78,89;3;2017;Cumple;EAR;
+Valdivia;Hospital Clínico Regional Valdivia;78,89;2;2017;Cumple;EAR;
+Talcahuano;Hospital Las Higueras;78,89;2;2017;Cumple;EAR;
+Metropolitano Occidente;Hospital Dr. Félix Bulnes Cerda;78,57;3;2017;Cumple;EAR;
+Concepción;Hospital Clinico Regional Dr. Guillermo Grant Benavente;77,78;2;2017;Cumple;EAR;
+Del Reloncaví;Hospital de Puerto Montt;77,78;2;2017;Cumple;EAR;
+Chiloé;Hospital de Castro;77,27;3;2017;Cumple;EAR;
+Arauco;Hospital Provincial Dr. Rafael Avaria;76,79;6;2017;Cumple;Invitado;
+Arica;Hospital Dr. Juan Noe Crevanni;76,7;6;2017;Cumple;EAR;
+Metropolitano Central;Hospital El Carmen Dr. Luis Valentín Ferrada;76,7;2;2017;Cumple;Invitado;
+Metropolitano Oriente;Hospital Del Salvador;76,67;3;2017;Cumple;EAR;
+Coquimbo;Hospital San Juan de Dios (La Serena);76,14;3;2017;Cumple;EAR;
+Ñuble;Hospital Clínico Herminda Martin;76,11;2;2017;Cumple;EAR;
+Del Maule;Hospital Dr. César Garavagno Burotto;76,11;2;2017;Cumple;EAR;
+Ñuble;Hospital de San Carlos;75,57;4;2017;Cumple;EAR;
+Araucanía Norte;Hospital Dr. Mauricio Heyermann;75,57;2;2017;Cumple;EAR;
+Aisén;Hospital Regional Coihaique;75,56;3;2017;Cumple;EAR;
+Concepción;Hospital de Lota;75;2;2017;Cumple;EAR;
+Araucanía Sur;Hospital Dr. Hernán Henríquez Aravena;75;2;2017;Cumple;EAR;
+Aconcagua;Hospital San Juan de Dios (Los Andes);75;1;2017;Cumple;EAR;
+Metropolitano Occidente;Hospital San Juan de Dios (Santiago);75;4;2017;Cumple;EAR;
+Coquimbo;Hospital Dr. Antonio Tirado Lanas;74,42;3;2017;No cumple;EAR;
+Metropolitano Sur Oriente;Complejo Hospitalario Dr. Sotero del Rio;73,3;3;2017;No cumple;EAR;
+Valparaíso San Antonio;Hospital Claudio Vicuña;73,26;3;2017;No cumple;EAR;
+Metropolitano Sur Oriente;Hospital Clínico Metropolitano La Florida Dra. Eloísa Diaz Inzunza;72,78;3;2017;No cumple;Invitado;
+Atacama;Hospital San José del Carmen (Copiapó);72,78;2;2017;No cumple;Invitado;
+Atacama;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz;72,09;4;2017;No cumple;Invitado;
+Del Libertador B. O´Higgins;Hospital San Juan de Dios (San Fernando);70,93;1;2017;No cumple;EAR;
+Valparaíso San Antonio;Hospital Dr. Eduardo Pereira Ramírez;70,83;2;2017;No cumple;EAR;
+Valparaíso San Antonio;Hospital Carlos Van Buren;69,89;5;2017;No cumple;EAR;
+Metropolitano Occidente;Hospital Adalberto Steeger;68,6;4;2017;No cumple;Invitado;
+Coquimbo;Hospital San Pablo;67,78;4;2017;No cumple;EAR;
+Antofagasta;Hospital Dr. Leonardo Guzman;67,22;3;2017;No cumple;EAR;
+Metropolitano Norte;Hospital Clínico de Niños Dr. Roberto del Rio;67,07;7;2017;No cumple;EAR;
+Metropolitano Sur Oriente;Hospital Padre Alberto Hurtado;66,48;9;2017;No cumple;Invitado;
+Metropolitano Norte;Complejo Hospitalario San Jose;66,11;3;2017;No cumple;EAR;
+Metropolitano Central;Hospital de Urgencia Asistencia Publica Dr. Alejandro del Rio;63,57;5;2017;No cumple;EAR;
+Iquique;Hospital Dr. Ernesto Torres Galdames ;61,67;7;2017;No cumple;EAR;
+Metropolitano Oriente;Instituto Nacional Geriátrico Pdte. Eduardo Frei Montalva;98,44;;2016;Cumple;EAR;
+Metropolitano Oriente;Instituto de Neurocirugía Dr. Alfonso Asenjo;95;;2016;Cumple;EAR;
+Metropolitano Sur;Hospital Dr. Exequiel González Cortés;89,67;;2016;Cumple;EAR;
+Metropolitano Oriente;Hospital de Niños Dr. Luis Calvo Mackenna;87,77;;2016;Cumple;EAR;
+Del Maule;Hospital Pdte. Carlos Ibáñez del Campo;87,77;;2016;Cumple;EAR;
+Metropolitano Norte;Instituto Nacional del Cáncer Dr. Caupolicán Pardo Correa;86,84;;2016;Cumple;EAR;
+Del Maule;Hospital San Juan de Dios (Curicó);84,57;;2016;Cumple;EAR;
+Talcahuano;Hospital de Tome;83,54;;2016;Cumple;EAR;
+Metropolitano Oriente;Hospital Dr. Luis Tisne B.;83,52;;2016;Cumple;EAR;
+Del Reloncaví;Hospital de Puerto Montt;82,81;;2016;Cumple;EAR;
+Metropolitano Occidente;Hospital Adalberto Steeger;82,78;;2016;Cumple;Invitado;
+Magallanes;Hospital Dr. Lautaro Navarro Avaria;81,91;;2016;Cumple;EAR;
+Metropolitano Occidente;Hospital San José (Melipilla);81,91;;2016;Cumple;EAR;
+Aconcagua;Hospital San Juan de Dios (Los Andes);81,38;;2016;Cumple;EAR;
+Metropolitano Oriente;Instituto Nacional de Rehabilitación Pdte. Pedro Aguirre Cerda;81,06;;2016;Cumple;EAR;
+Metropolitano Occidente;Hospital Dr. Félix Bulnes Cerda;80,98;;2016;Cumple;EAR;
+Metropolitano Oriente;Instituto Nacional de Enfermedades Respiratorias y Cirugía Torácica;80,81;;2016;Cumple;EAR;
+Concepción;Hospital San José (Coronel);80,43;;2016;Cumple;EAR;
+Talcahuano;Hospital Las Higueras;80,21;;2016;Cumple;EAR;
+Metropolitano Norte;Instituto Psiquiátrico Dr. Jose Horwitz Barak;79,84;;2016;Cumple;EAR;
+Metropolitano Oriente;Hospital Del Salvador;79,17;;2016;Cumple;EAR;
+Concepción;Hospital Clinico Regional Dr. Guillermo Grant Benavente;78,65;;2016;Cumple;EAR;
+Viña del Mar Quillota;Hospital San Martín;78,65;;2016;Cumple;EAR;
+Antofagasta;Hospital Dr. Carlos Cisternas;78,26;;2016;Cumple;Invitado;
+Ñuble;Hospital de San Carlos;78,19;;2016;Cumple;EAR;
+Metropolitano Sur;Hospital Barros Luco Trudeau;78,13;;2016;Cumple;EAR;
+Aconcagua;Hospital de San Camilo;78,13;;2016;Cumple;EAR;
+Del Maule;Hospital Dr. César Garavagno Burotto;78,13;;2016;Cumple;EAR;
+Biobío;Complejo Asistencial Dr. Victor Ríos Ruiz;77,6;;2016;Cumple;EAR;
+Aisén;Hospital Regional Coihaique;77,08;;2016;Cumple;EAR;
+Araucanía Norte;Hospital Dr. Mauricio Heyermann;76,06;;2016;Cumple;EAR;
+Atacama;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz;76,06;;2016;Cumple;Invitado;
+Metropolitano Sur Oriente;Hospital Clínico Metropolitano La Florida Dra. Eloísa Diaz Inzunza;76,04;;2016;Cumple;Invitado;
+Metropolitano Occidente;Instituto Traumatológico Dr. Teodoro Gebauer;75,61;;2016;Cumple;EAR;
+Valparaíso San Antonio;Hospital Claudio Vicuña;75,53;;2016;Cumple;EAR;
+Metropolitano Sur;Hospital El Pino;75,52;;2016;Cumple;EAR;
+Concepción;Hospital de Lota;75;;2016;Cumple;EAR;
+Araucanía Sur;Hospital Dr. Hernán Henríquez Aravena;75;;2016;Cumple;EAR;
+Arica;Hospital Dr. Juan Noe Crevanni;75;;2016;Cumple;EAR;
+Metropolitano Central;Hospital El Carmen Dr. Luis Valentín Ferrada;75;;2016;Cumple;Invitado;
+Ñuble;Hospital Clínico Herminda Martin;74,48;;2016;No cumple;EAR;
+Valdivia;Hospital Clínico Regional Valdivia;74,48;;2016;No cumple;EAR;
+Chiloé;Hospital de Castro;74,48;;2016;No cumple;EAR;
+Viña del Mar Quillota;Hospital Dr. Gustavo Fricke;74,48;;2016;No cumple;EAR;
+Coquimbo;Hospital Dr. Antonio Tirado Lanas;74,47;;2016;No cumple;EAR;
+Valparaíso San Antonio;Hospital Carlos Van Buren;73,96;;2016;No cumple;EAR;
+Viña del Mar Quillota;Hospital de Quilpué;73,96;;2016;No cumple;EAR;
+Coquimbo;Hospital San Juan de Dios (La Serena);73,96;;2016;No cumple;EAR;
+Talcahuano;Hospital Penco Lirquén;73,61;;2016;No cumple;Invitado;
+Del Libertador B. O´Higgins;Hospital Regional de Rancagua;72,92;;2016;No cumple;EAR;
+Araucanía Norte;Hospital San José (Victoria);72,87;;2016;No cumple;EAR;
+Metropolitano Central;Hospital Clínico San Borja-Arriarán;71,81;;2016;No cumple;EAR;
+Antofagasta;Hospital Dr. Leonardo Guzman;71,35;;2016;No cumple;EAR;
+Metropolitano Occidente;Hospital San Juan de Dios de Santiago;71,35;;2016;No cumple;EAR;
+Del Libertador B. O´Higgins;Hospital San Juan de Dios (San Fernando);71,28;;2016;No cumple;EAR;
+Metropolitano Sur Oriente;Complejo Hospitalario Dr. Sotero del Rio;70,31;;2016;No cumple;EAR;
+Osorno;Hospital Base de Osorno;70,31;;2016;No cumple;EAR;
+Valparaíso San Antonio;Hospital Dr. Eduardo Pereira Ramírez;70;;2016;No cumple;EAR;
+Coquimbo;Hospital San Pablo;67,71;;2016;No cumple;EAR;
+Atacama;Hospital San José del Carmen (Copiapó);67,19;;2016;No cumple;Invitado;
+Arauco;Hospital Provincial Dr. Rafael Avaria;66,11;;2016;No cumple;Invitado;
+Iquique;Hospital Dr. Ernesto Torres Galdames ;65,1;;2016;No cumple;EAR;
+Metropolitano Central;Hospital de Urgencia Asistencia Publica Dr. Alejandro del Rio;63,16;;2016;No cumple;EAR;
+Metropolitano Norte;Hospital Clínico de Niños Dr. Roberto del Rio;62,5;;2016;No cumple;EAR;
+Metropolitano Norte;Complejo Hospitalario San Jose;59,9;;2016;No cumple;EAR;
+Metropolitano Sur Oriente;Hospital Padre Alberto Hurtado      ;59,9;;2016;No cumple;Invitado;

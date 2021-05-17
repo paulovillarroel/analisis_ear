@@ -1,0 +1,63 @@
+---
+title: "Análisis de establecimientos autogestionados en red (EAR) 2016 - 2019"
+author: "Paulo Villarroel (paulo@opensaludlab.org)"
+output: html_document
+---
+
+```{r setup, include = FALSE, warning = FALSE}
+library(tidyverse)
+library(ggrepel)
+library(rmarkdown)
+
+datos <- readxl::read_excel("Consolidado cumplimiento EAR.xlsx")
+
+servicio <- unique(datos$servicio.salud)
+
+datos$servicio.salud <- as.factor(datos$servicio.salud)
+datos$prestador <- as.factor(datos$prestador)
+datos$porcentaje <- as.numeric(datos$porcentaje)
+datos$estado <- as.factor(datos$estado)
+datos$acreditacion <- as.factor(datos$acreditacion)
+```
+
+
+## Análisis por servicios de salud
+
+A continuación te dejo los detalles de la evolución, entre los años 2016 al 2019, de los resultados de cada institución evaluada, segmentados por servicios de salud.
+Estos resultados corresponden a la aplicación de los distintos indicadores EAR, no se incluyen resultados del cumplimiento de los artículos 16 y 18.
+
+Fuente: Departamento de eficiencia hospitalaria / Subsecretaria de Redes Asistenciales
+
+Todas las gráficas son de elaboración propia.
+
+Acá puedes ver el [artículo completo del blog de OpenSalud LAB](http://opensaludlab.blogspot.com/2020/10/son-eficientes-los-hospitales-publicos.html)
+\
+\
+
+
+```{r echo=FALSE, fig.height=7, fig.width=11, warning=FALSE, message=FALSE}
+
+for(i in seq_along(servicio)) {
+plot <-
+  datos %>%
+  filter(servicio.salud == servicio[i]) %>% 
+  ggplot(aes(año, porcentaje)) +
+  geom_line(size = 1.5, alpha = 0.5) +
+  geom_point(size = 3.5) +
+  geom_label_repel(aes(label = porcentaje, fill = factor(estado)), size = 4, color = "white" ) +
+  scale_fill_manual(values = c("green3", "red"), name = "Resultado")  +
+  theme(legend.position = "bottom",
+        plot.title = element_text(size = rel(1.5), vjust = 2, face = "bold")) +
+  facet_wrap(~prestador) +
+  labs(title = paste("Servicio de salud", servicio[i]),
+       x = "Año evaluación",
+       y = "Porcentaje de cumplimiento")
+
+print(plot)
+
+}
+```
+
+
+
+
