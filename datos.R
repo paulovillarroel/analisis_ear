@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggrepel)
 library(stringr)
 
-datos <- readxl::read_excel("Consolidado cumplimiento EAR.xlsx")
+datos <- readxl::read_excel("data/Consolidado cumplimiento EAR.xlsx")
 
 ## Revisión de datos ----
 str(datos)
